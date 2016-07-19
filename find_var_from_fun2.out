@@ -1,0 +1,46 @@
+SPEA2 : RouteSetAddDelRand : 0.4 : Mandl-4 : Run 1
+[4, 3, 11, 10, 12, 13, 9, 6][0, 1, 2, 5, 7, 9][7, 14, 8][12, 13] @line 51
+
+SPEA2 : RouteSetAddDelRand : 0.6 : Mandl-4 : Run 15
+[4, 3, 11, 10, 12, 13, 9, 6][0, 1, 2, 5, 7, 9][7, 14, 8][12, 13] @line 91
+
+SPEA2 : RouteSetAddDelRand : 1.0 : Mandl-4 : Run 18
+[4, 3, 11, 10, 12, 13, 9, 6][0, 1, 2, 5, 7, 9][7, 14, 8][12, 13] @line 7
+
+SPEA2 : RouteSetAddDelTELRand : 0.2 : Mandl-4 : Run 12
+[4, 3, 11, 10, 12, 13, 9, 6][0, 1, 2, 5, 7, 9][7, 14, 8][12, 13] @line 63
+
+SPEA2 : RouteSetAddDelTELRand : 0.2 : Mandl-4 : Run 19
+[4, 3, 11, 10, 12, 13, 9, 6][0, 1, 2, 5, 7, 9][7, 14, 8][12, 13] @line 63
+
+SPEA2 : RouteSetAddDelTELRand : 0.6 : Mandl-4 : Run 1
+[4, 3, 11, 10, 12, 13, 9, 6][0, 1, 2, 5, 7, 9][7, 14, 8][12, 13] @line 46
+
+SPEA2 : RouteSetAddDelTELRand : 0.8 : Mandl-4 : Run 13
+[4, 3, 11, 10, 12, 13, 9, 6][0, 1, 2, 5, 7, 9][7, 14, 8][12, 13] @line 84
+
+SPEA2 : RouteSetAddDelTELRand : 1.0 : Mandl-4 : Run 15
+[4, 3, 11, 10, 12, 13, 9, 6][0, 1, 2, 5, 7, 9][7, 14, 8][12, 13] @line 57
+
+SPEA2 : RouteSetAddDelTEORand : 1.0 : Mandl-4 : Run 8
+[4, 3, 11, 10, 12, 13, 9, 6][0, 1, 2, 5, 7, 9][7, 14, 8][12, 13] @line 47
+
+SPEA2 : RouteSetCombinedRandomMutation : 0.2 : Mandl-4 : Run 3
+[4, 3, 11, 10, 12, 13, 9, 6][0, 1, 2, 5, 7, 9][7, 14, 8][12, 13] @line 68
+
+SPEA2 : RouteSetCombinedRandomMutation : 0.4 : Mandl-4 : Run 15
+[4, 3, 11, 10, 12, 13, 9, 6][0, 1, 2, 5, 7, 9][7, 14, 8][12, 13] @line 60
+
+SPEA2 : RouteSetCombinedRandomMutation : 0.6 : Mandl-4 : Run 3
+[4, 3, 11, 10, 12, 13, 9, 6][0, 1, 2, 5, 7, 9][7, 14, 8][12, 13] @line 71
+
+SPEA2 : RouteSetCombinedRandomMutation : 0.6 : Mandl-4 : Run 4
+[4, 3, 11, 10, 12, 13, 9, 6][0, 1, 2, 5, 7, 9][7, 14, 8][12, 13] @line 70
+
+SPEA2 : RouteSetCombinedGuidedMutation : 0.6 : Mandl-4 : Run 4
+[4, 3, 11, 10, 12, 13, 9, 6][0, 1, 2, 5, 7, 9][7, 14, 8][12, 13] @line 68
+
+SPEA2 : RouteSetCombinedGuidedMutation : 1.0 : Mandl-4 : Run 19
+[4, 3, 11, 10, 12, 13, 9, 6][0, 1, 2, 5, 7, 9][7, 14, 8][12, 13] @line 37
+
+Total found: 15
